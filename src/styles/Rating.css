@@ -1,5 +1,6 @@
 .rating-selection-container {
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     background-color: #1f2630;
+    border-radius: 28px;
 }
